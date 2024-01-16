@@ -64,7 +64,7 @@ export default function Navbar() {
           KGL<span className="font-bold"> Eats</span>
         </h2>
         <nav>
-          <ul className="flex flex-col p-4 tes-gray-800">
+          <ul className="flex flex-col p-4 text-gray-800">
             <li className="text-xl py-4 flex">
               <TbTruckDelivery size={25} className="mr-4" /> Orders
             </li>
