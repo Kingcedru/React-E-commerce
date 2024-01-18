@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { categories, data } from "../data/data";
+import { data } from "../data/data";
 
 export default function Food() {
   const [foods, setFoods] = useState(data);
